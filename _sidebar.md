@@ -20,8 +20,6 @@
 
 - Contributing
 
-This is where SOE contributors can view projects related to their skills and jump as they see fit.
-
   - [Community and Content](contrib_community_content.md)
   - [Marketing](contrib_marketing.md)
   - [Creative Design](contrib_creative_design.md)
@@ -30,4 +28,4 @@ This is where SOE contributors can view projects related to their skills and jum
   - [Partnerships](contrib_partnerships.md)
   - [Policy](contrib_policy.md)
 
-- [About](changelog.md)
+- [About](about.md)
