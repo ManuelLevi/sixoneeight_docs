@@ -4,9 +4,10 @@
   - [Distribution](token_distribution.md)
 
 - Analysis
-
+  - [Screeners](screeners.md)
   - [Event Studies](event_studies.md)
-
+  - [Crossovers](crossovers.md)
+  
 - Fundamental Data
 
   - [Sources](fundamental_sources.md)
